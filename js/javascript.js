@@ -42,11 +42,11 @@ jQuery(document).ready(function( $ ) {
     });
 
     //counter
-    $('#example').countdown({
-        date: '12/24/2015 23:59:59'
-    }, function () {
-        alert('Merry Christmas!');
-    });
+    //$('#example').countdown({
+    //    date: '12/24/2015 23:59:59'
+    //}, function () {
+    //    alert('Merry Christmas!');
+    //});
 
     // contact
     $("#buttonContact").click(function(){
