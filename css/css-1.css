@@ -2239,3 +2239,12 @@ a:hover figcaption {
     -webkit-animation-direction: normal, alternate;
     animation-direction: normal, alternate;
 }
+/*Add ons*/
+.overlay {
+   background:transparent; 
+   position:relative; 
+   width:100%;
+   height:450px; /* your iframe height */
+   top:450px;  /* your iframe height */
+   margin-top:-450px;  /* your iframe height */
+}
